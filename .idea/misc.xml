@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/TransactionService/pom.xml" />
         <option value="$PROJECT_DIR$/UserService/pom.xml" />
         <option value="$PROJECT_DIR$/AccountService/pom.xml" />
+        <option value="$PROJECT_DIR$/AuthService/pom.xml" />
+        <option value="$PROJECT_DIR$/BankAPIGateway/pom.xml" />
       </list>
     </option>
   </component>

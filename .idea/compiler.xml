@@ -10,12 +10,16 @@
         <module name="TransactionService" />
         <module name="UserService" />
         <module name="AccountService" />
+        <module name="BankAPIGateway" />
+        <module name="AuthService" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AccountService" options="-parameters" />
+      <module name="AuthService" options="-parameters" />
+      <module name="BankAPIGateway" options="-parameters" />
       <module name="TransactionService" options="-parameters" />
       <module name="UserService" options="-parameters" />
     </option>
